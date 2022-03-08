@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Amit
-- 👀 I’m a software developer
+- 👀 
 - 
